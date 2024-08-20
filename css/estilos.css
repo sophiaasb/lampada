@@ -10,4 +10,11 @@ body{
     width: 400px;
     background: white;
     border-radius: 20px;
+    box-shadow: 5px 5px 18px rgba(0, 0, 0, 0.555);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
 }
