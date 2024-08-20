@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(darkblue, white, darkred);
+    background: linear-gradient(rgb(211, 20, 20), white);
     height: 100dvh;
     display: flex;
     align-items: center;
