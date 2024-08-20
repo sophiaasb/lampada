@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(darkblue, white, darkred);
+    height: 100dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.central{
+    width: 400px;
+    background: white;
+    border-radius: 20px;
+}
