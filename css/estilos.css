@@ -1,6 +1,6 @@
 body{
     background: linear-gradient(rgb(75, 0, 160), white);
-    height: 100dvh;
+    height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -15,14 +15,14 @@ body{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    gap: 10px;
+    gap: 8px;
     padding: 10px;
 }
 
 .central button{
-    width: 150px;
+    width: 100px;
     background: lightskyblue;
-    font-size: 30px;
-    border-radius: 10px;
+    font-size: 18px;
+    border-radius: 15px;
     cursor: pointer;
 }
